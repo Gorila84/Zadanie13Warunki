@@ -67,7 +67,7 @@ public class Program
 
     private static void DivisionTwoNumbers(double firstNumber, double secondNumber)
     {
-        double result = firstNumber * secondNumber;
+        double result = firstNumber / secondNumber;
         Console.WriteLine($"\nTwój wynik to: {result}");
     }
 
